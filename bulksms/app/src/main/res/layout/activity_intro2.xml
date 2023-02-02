@@ -24,7 +24,7 @@
         android:layout_marginBottom="112dp"
         android:text="Kayıt Ol"
         app:layout_constraintBottom_toTopOf="@+id/textView2"
-        app:layout_constraintEnd_toEndOf="@+id/button3"
+        app:layout_constraintEnd_toEndOf="@+id/intro_giris"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="@+id/intro_giris" />
 
